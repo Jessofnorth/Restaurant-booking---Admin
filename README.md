@@ -1,5 +1,5 @@
 # Adminwebbplats för Johans Kök
-av Jessica Ejelöv, jeej2100@student.miun.se
+av Jessica Ejelöv, jessicaejelov@gmail.com
 Projekt för kursen Webbutveckling III på Mittuniversitetet. 
 
 ## Om webbplatsen
