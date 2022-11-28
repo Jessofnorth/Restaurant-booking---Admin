@@ -1,0 +1,24 @@
+    // nav links
+    .menu-links {
+        a {
+            color: $secondary-color;
+            text-decoration: none;
+            padding: $base-padding;
+            &:hover {
+                color: $primary-bg;
+                text-decoration: underline;
+            }
+        }
+        .logout:hover {
+            color: red;
+        }
+    }
+    
+    // footer links
+    footer {
+        p {
+            color: $secondary-color;
+            text-decoration: none;
+            padding: $base-padding;
+        }
+    }

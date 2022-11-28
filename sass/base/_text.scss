@@ -1,0 +1,56 @@
+h1 {
+    font-family: $heading-family;
+    font-size: 2.25em;
+    padding: $base-padding;
+}
+
+h2 {
+    font-family: $heading-family;
+    font-size: 2em;
+    padding: $base-padding;
+}
+
+h3 {
+    font-family: $heading-family;
+    font-size: 1.75em;
+    padding: $base-padding;
+}
+
+h4 {
+    font-family: $heading-family;
+    font-size: 1.5em;
+}
+
+h5 {
+    font-family: $heading-family;
+    font-size: 1.25em;
+}
+
+h6 {
+    font-family: $heading-family;
+    font-size: 1em;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.5em;
+    color: $primary-text;
+}
+
+.center {
+    text-align: center;
+}
+
+.error {
+    color: red;
+    font-weight: 700;
+}
+
+.posted {
+    color: $primary-color;
+    font-weight: 700;
+}
+
+.monotype {
+    font-family: $base-text;
+}

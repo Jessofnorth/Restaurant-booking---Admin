@@ -1,0 +1,16 @@
+//  header / nav
+header {
+    .desktop-nav {
+        background-color: $primary-color;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 100%;
+        justify-items: center;
+        row-gap: 1em;
+        padding: $base-padding;
+        img {
+            height: 4em;
+            width: auto;
+        }
+    }
+}
